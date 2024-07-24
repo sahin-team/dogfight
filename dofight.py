@@ -60,7 +60,7 @@ print("En Yakın Rakip İHA:")
 print("Takım Numarası:", en_yakin_iha["takim_numarasi"])
 print("Mesafe:", en_yakin_mesafe, "metre")
 
-
+#test#
 
 print(distance(p1=kendi_iha_konum,p2=rakip_iha_konumlari[1]))
 print(distance(p1=kendi_iha_konum,p2=rakip_iha_konumlari[0]))
